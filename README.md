@@ -3,3 +3,5 @@ A windows application for creating and manipulating complex images using C.I.(TM
 <br><br>
 Programming user guide is attached in the help of the app.
 No installation is needed.
+
+Source code is included for the project in the *.zip file. 
